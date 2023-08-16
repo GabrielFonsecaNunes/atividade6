@@ -1,0 +1,41 @@
+Aula6_Features
+Estude a teoria sobre Features no tutorial abaixo.
+
+Teoria para leitura:
+Understanding Features
+https://docs.opencv.org/4.x/df/d54/tutorial_py_features_meaning.html
+
+Lab_6_Features
+Estude os três exercícios indicados abaixo sobre os tipos de detecção de Features.
+Para executar, baixe do Moodle a pasta Lab6 - Arquivos
+
+
+(1) Harris Corner Detection
+https://docs.opencv.org/4.x/dc/d0d/tutorial_py_features_harris.html
+programa lab6a.py
+
+Obs.: Não é necessário fazer o segundo exercício "Corner with SubPixel Accuracy".
+
+(2) Shi-Tomasi Corner Detector & Good Features to Track
+https://docs.opencv.org/4.x/d4/d8c/tutorial_py_shi_tomasi.html
+programa lab6b.py
+
+(3) Introduction to SIFT (Scale-Invariant Feature Transform)
+https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html
+programa lab6c.py
+
+-EXPERIMENTOS:
+
+
+(1) Desenvolva um programa para fazer a leitura de suas imagens
+--utilize as imagens gravadas anteriormente, bem como imagens do seu trabalho de video.
+
+O programa deve realizar a deteção de Features pelos métodos dos exercícios.
+Deve ainda salvar as imagens com identificação das Features em arquivo .
+
+
+(2) Outro programa modificando o item (1), agora fazendo a leitura de imagem da webcam.
+Neste caso, o programa deve adicionalmente mostrar uma janela ao vivo com a imagem e o resultado da imagem de rastreamento.
+programa lab6d.py
+
+Realize este experimento para os três tipos de Detectores estudados. Filmagem  com cada integrante do grupo; e também com o tabuleiro xadrez preto e branco. 
